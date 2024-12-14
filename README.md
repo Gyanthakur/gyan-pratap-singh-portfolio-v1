@@ -1,5 +1,7 @@
 <div align="center">
-![image](https://github.com/user-attachments/assets/b84a1eaf-2005-4a05-8d66-6d6ee20d355b)
+
+  ![image](https://github.com/user-attachments/assets/4712669a-a275-4fe0-9b64-62c43555d3a4)
+
 </div>
 
 
@@ -15,7 +17,8 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 - 💬 Ask me about **frontend development**, **ReactJS**, and **APIs**.
 - ⚡ Fun fact: I’m a proud **Postman Student Expert** and a maintainer in **Hacktoberfest**!
 <div align="center">
-  ![image](https://github.com/user-attachments/assets/b4b66f6b-db7f-423e-b027-5fd1d6b6e8f7)
+ ![image](https://github.com/user-attachments/assets/cd7ddd3b-963c-40a2-89ce-51b1c6659f48)
+
 </div>
 
 ### 🧑‍💻 Contact Me
