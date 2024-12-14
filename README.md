@@ -1,5 +1,4 @@
 <div align="center">
-  
 ![image](https://github.com/user-attachments/assets/b84a1eaf-2005-4a05-8d66-6d6ee20d355b)
 </div>
 
@@ -15,6 +14,9 @@ Welcome to my portfolio repository! This repository showcases my projects, skill
 - 🎯 My goal is to develop impactful applications that solve real-world problems while contributing to open-source communities.
 - 💬 Ask me about **frontend development**, **ReactJS**, and **APIs**.
 - ⚡ Fun fact: I’m a proud **Postman Student Expert** and a maintainer in **Hacktoberfest**!
+<div align="center">
+  ![image](https://github.com/user-attachments/assets/b4b66f6b-db7f-423e-b027-5fd1d6b6e8f7)
+</div>
 
 ### 🧑‍💻 Contact Me
 
